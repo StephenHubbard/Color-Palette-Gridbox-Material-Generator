@@ -1,0 +1,13 @@
+{
+  "name": "com.stephenhubbard.colorpalettegridbox",
+  "displayName": "Color Palette Gridbox Material Generator",
+  "version": "1.0.0",
+  "unity": "2021.3",
+  "description": "A Unity editor tool to generate materials using a color palette grid.",
+  "keywords": ["unity", "editor", "material", "color"],
+  "dependencies": {},
+  "author": {
+    "name": "Stephen Hubbard",
+    "url": "https://github.com/StephenHubbard"
+  }
+}
