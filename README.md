@@ -1,7 +1,7 @@
  
 Color Palette Gridbox Material Generator
 ======================================
-![Thumbnail Image](Documentation/Thumbnail.png)
+![Thumbnail Image](Thumbnail.png)
 ======================================
 This Unity project contains a custom editor tool to generate materials based
 on a color palette texture. The tool processes each color in the palette and
