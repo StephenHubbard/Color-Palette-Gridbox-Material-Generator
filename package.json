@@ -9,5 +9,12 @@
   "author": {
     "name": "Stephen Hubbard",
     "url": "https://github.com/StephenHubbard"
-  }
+  },
+  "samples": [
+    {
+      "displayName": "Sample Scene",
+      "description": "A basic sample scene to show some pre-generated materials using package features.",
+      "path": "Samples~/SampleScene"
+    }
+  ]
 }
