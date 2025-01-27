@@ -11,6 +11,8 @@ creates corresponding textures and materials.
 How to Use
 --------------------------------------
 
+Install package from git URL: https://github.com/StephenHubbard/Color-Palette-Gridbox-Material-Generator.git
+
 Video tutorial found here: https://www.youtube.com/watch?v=wmlg0QUW16M&ab_channel=StephenHubbard
 1. Open Unity and navigate to:
 Window > Tools > Color Palette Material Generator
@@ -26,6 +28,8 @@ pixel represents a color swatch with a maximum height of 1 pixel.
 *Assets/Generated Materials/{PaletteName}/Textures*
 *Assets/Generated Materials/{PaletteName}/Materials*
 5. The materials folder will automatically open in the Unity Project window.
+
+Note:  There is a sample scene with ready-to-use materials that can be installed via the Samples tab on the Unity package manager after importing the project. 
 
 --------------------------------------
 Requirements
