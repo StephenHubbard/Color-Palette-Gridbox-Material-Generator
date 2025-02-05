@@ -1,7 +1,7 @@
 {
   "name": "com.stephenhubbard.colorpalettegridbox",
   "displayName": "Color Palette Gridbox Material Generator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "unity": "2021.3",
   "description": "A Unity editor tool to generate materials using a color palette grid.",
   "keywords": ["unity", "editor", "material", "color"],
@@ -15,6 +15,16 @@
       "displayName": "Sample Scene",
       "description": "A basic sample scene to show some pre-generated materials using package features.",
       "path": "Samples~/SampleScene"
+    },
+    {
+      "displayName": "Overlay Patterns",
+      "description": "A collection of overlay patterns for materials.",
+      "path": "Samples~/OverlayPatterns"
+    },
+    {
+      "displayName": "Color Palettes",
+      "description": "Example color palettes.",
+      "path": "Samples~/ColorPalettes"
     }
   ]
 }
