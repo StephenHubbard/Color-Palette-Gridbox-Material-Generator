@@ -13,6 +13,8 @@ How to Use
 
 Install package from git URL: https://github.com/StephenHubbard/Color-Palette-Gridbox-Material-Generator.git
 
+Suggested:  Import "Overlay Patterns" from the Samples tab in your Package Manager. 
+
 Video tutorial found here: https://www.youtube.com/watch?v=wmlg0QUW16M&ab_channel=StephenHubbard
 1. Open Unity and navigate to:
 Window > Tools > Color Palette Material Generator
